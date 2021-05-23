@@ -11,29 +11,9 @@ object-assign
  * @license  MIT
  */
 
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-/*!
- * web3.js - Ethereum JavaScript API
- *
- * @license lgpl-3.0
- * @see https://github.com/ethereum/web3.js
-*/
-
 /*! bignumber.js v2.0.7 https://github.com/MikeMcl/bignumber.js/LICENCE */
 
-/*! https://mths.be/punycode v1.3.2 by @mathias */
-
 /*! https://mths.be/utf8js v2.1.2 by @mathias */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /** @license React v17.0.2
  * react.production.min.js
