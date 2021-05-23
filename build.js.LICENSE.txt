@@ -1,6 +1,14 @@
-/*!
- * The buffer module from node.js, for the browser.
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/** @license React v17.0.2
+ * react.production.min.js
  *
- * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
- * @license  MIT
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
  */
