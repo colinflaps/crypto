@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/colinflaps/crypto/static/css/main.a617e044.chunk.css",
-    "main.js": "/colinflaps/crypto/static/js/main.b6db74a8.chunk.js",
-    "main.js.map": "/colinflaps/crypto/static/js/main.b6db74a8.chunk.js.map",
-    "runtime-main.js": "/colinflaps/crypto/static/js/runtime-main.5f153cb3.js",
-    "runtime-main.js.map": "/colinflaps/crypto/static/js/runtime-main.5f153cb3.js.map",
-    "static/js/2.982a8acb.chunk.js": "/colinflaps/crypto/static/js/2.982a8acb.chunk.js",
-    "static/js/2.982a8acb.chunk.js.map": "/colinflaps/crypto/static/js/2.982a8acb.chunk.js.map",
-    "static/js/3.88b69eec.chunk.js": "/colinflaps/crypto/static/js/3.88b69eec.chunk.js",
-    "static/js/3.88b69eec.chunk.js.map": "/colinflaps/crypto/static/js/3.88b69eec.chunk.js.map",
-    "index.html": "/colinflaps/crypto/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/colinflaps/crypto/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.982a8acb.chunk.js.LICENSE.txt": "/colinflaps/crypto/static/js/2.982a8acb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/colinflaps/crypto/static/media/logo.6ce24c58.svg"
+    "main.css": "/crypto/static/css/main.a617e044.chunk.css",
+    "main.js": "/crypto/static/js/main.b6db74a8.chunk.js",
+    "main.js.map": "/crypto/static/js/main.b6db74a8.chunk.js.map",
+    "runtime-main.js": "/crypto/static/js/runtime-main.a1c7c306.js",
+    "runtime-main.js.map": "/crypto/static/js/runtime-main.a1c7c306.js.map",
+    "static/js/2.982a8acb.chunk.js": "/crypto/static/js/2.982a8acb.chunk.js",
+    "static/js/2.982a8acb.chunk.js.map": "/crypto/static/js/2.982a8acb.chunk.js.map",
+    "static/js/3.88b69eec.chunk.js": "/crypto/static/js/3.88b69eec.chunk.js",
+    "static/js/3.88b69eec.chunk.js.map": "/crypto/static/js/3.88b69eec.chunk.js.map",
+    "index.html": "/crypto/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/crypto/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.982a8acb.chunk.js.LICENSE.txt": "/crypto/static/js/2.982a8acb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/crypto/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f153cb3.js",
+    "static/js/runtime-main.a1c7c306.js",
     "static/js/2.982a8acb.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.b6db74a8.chunk.js"
